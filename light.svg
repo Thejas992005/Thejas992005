@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1180" height="610" viewBox="0 0 1180 610" role="img"
+     aria-label="Premium GitHub profile for Thejas M U, an AIML student and developer focused on Python, AI and machine learning, web tools, and automation.">
+  <title>Thejas M U — AIML Student &amp; Developer</title>
+  <desc>A terminal-inspired profile banner with a character-based ASCII avatar, education, technical focus, projects, and links.</desc>
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F3F7FC"/><stop offset="100%" stop-color="#FFFFFF"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6D5AE6"/><stop offset="52%" stop-color="#087EAD"/><stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="22%" cy="28%" r="75%">
+      <stop offset="0%" stop-color="#087EAD" stop-opacity=".10"/>
+      <stop offset="100%" stop-color="#087EAD" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#E7EEF7" stroke-width="1"/>
+    </pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#9DB0C7" flood-opacity=".16"/>
+    </filter>
+    <clipPath id="frameClip"><rect x="10" y="10" width="1160" height="590" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#frameClip)">
+    <rect width="1180" height="610" rx="24" fill="url(#bgGrad)"/>
+    <rect width="1180" height="610" fill="url(#grid)" opacity=".70"/>
+    <rect width="1180" height="610" fill="url(#glow)"/>
+    <circle cx="1070" cy="70" r="160" fill="#6D5AE6" opacity=".04"/>
+    <circle cx="580" cy="590" r="180" fill="#087EAD" opacity=".04"/>
+    <rect x="10" y="10" width="1160" height="590" rx="24" fill="none" stroke="#D8E3F0" stroke-width="1.5"/>
+    <!-- Terminal chrome -->
+    <rect x="24" y="24" width="1132" height="42" rx="12" fill="#FFFFFF" stroke="#D8E3F0"/>
+    <circle cx="46" cy="45" r="5" fill="#FF6B6B"/><circle cx="64" cy="45" r="5" fill="#FBBF24"/><circle cx="82" cy="45" r="5" fill="#34D399"/>
+    <text x="104" y="50" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" fill="#52637A">thejas@profile:~ / README.md</text>
+    <rect x="1018" y="34" width="118" height="22" rx="11" fill="#059669" fill-opacity=".12" stroke="#059669" stroke-opacity=".5"/>
+    <circle cx="1032" cy="45" r="3" fill="#059669"/>
+    <text x="1042" y="49" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" letter-spacing="1" fill="#059669">BUILDING</text>
+    <!-- Left visual card -->
+    <rect x="28" y="82" width="405" height="498" rx="18" fill="#FFFFFF" fill-opacity=".84" stroke="#D8E3F0" filter="url(#shadow)"/>
+    <text x="52" y="111" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="2" fill="#087EAD">VISUAL.MAP</text>
+    <text x="407" y="111" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#52637A">01 / IDENTITY</text>
+    <line x1="52" y1="124" x2="409" y2="124" stroke="#D8E3F0"/>
+    <rect x="66" y="139" width="329" height="324" rx="14" fill="#F8FBFF" stroke="#D8E3F0"/>
+    <circle cx="230" cy="285" r="126" fill="#087EAD" opacity=".06"/>
+    <circle cx="230" cy="285" r="108" fill="none" stroke="#087EAD" stroke-opacity=".28" stroke-dasharray="3 7"/>
+    <text font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#087EAD" text-anchor="middle" opacity=".9">
+<tspan x="230" y="190">AhAAA2A2X232XA5hh2X23hA3B#BBBB#9B</tspan>
+<tspan x="230" y="201">AhAAA2A2X23AsA233AX233Ah9#BBBB#9B</tspan>
+<tspan x="230" y="212">AhAAX2AAX23AsA5hh52233Xh9#BBBB#BB</tspan>
+<tspan x="230" y="223">A3X2X2AAX233MGS###SGH3Ah9#BBBB#BB</tspan>
+<tspan x="230" y="234">A3X2X2AAX2G##999999B&amp;HXM9#BBBB#BB</tspan>
+<tspan x="230" y="245">A5X2X2A2X5#9#9#G33H#BSAM9#BBBB#BB</tspan>
+<tspan x="230" y="256">A5X2X2A2X5G9GHh533hMSG2H9#BBBB#BB</tspan>
+<tspan x="230" y="267">A5X2X2X2A3MGHGH5hMh5Mh3H9#BBB9#BB</tspan>
+<tspan x="230" y="278">A2X2X2A5A3MMh5355522hh2G9#BBB9#BB</tspan>
+<tspan x="230" y="289">A2X2X2X5A5M2hMHHMhhhH32G9#BBB9#BB</tspan>
+<tspan x="230" y="300">A2X2X2X5X5M2AhHHMhHHMMhS9#BBB9#BB</tspan>
+<tspan x="230" y="311">2AX2X2X5X2MAA3SGSSHh3H23HSBB&amp;99BB</tspan>
+<tspan x="230" y="322">2AX2X2X5XAhA2hGHHHhh33i;iX555hS&amp;B</tspan>
+<tspan x="230" y="333">2AX5X5X5A2Xs2XrsXssisMMAiAh3Xir2#</tspan>
+<tspan x="230" y="344">2AX5X5X5M3A3G5::,,,;5#G35H##M5X:i</tspan>
+<tspan x="230" y="355">2AX5A55##H35Mhi::::;2hXiiXhhXX5i:</tspan>
+<tspan x="230" y="366">2AX5AAr33Xi;X3i,,::;sX;,,iA2i2H3A</tspan>
+<tspan x="230" y="377">2AA55MsA2r::rhs,,::;s2ri;s53XS9G2</tspan>
+<tspan x="230" y="388">2A235GhGM5XX3Sh::::r3Gh52h##MHH5r</tspan>
+<tspan x="230" y="399">2A2352Xh9H35H9S;:::rhG3AsAHH2235r</tspan>
+<tspan x="230" y="410">2A2h5s;XM5siAMhr:::;s2s;,;A5r2hM3</tspan>
+<tspan x="230" y="421">2A2HHArAM2i:r55i::,iiXri,;A5rh99#</tspan>
+<animate attributeName="opacity" values=".72;1;.72" dur="5s" repeatCount="indefinite"/>
+</text>
+    <path d="M82 420 H105 M82 420 V397 M378 420 H355 M378 420 V397" stroke="#087EAD" stroke-width="1.5" fill="none" opacity=".7"/>
+    <text x="230" y="484" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#52637A">PHOTO-DERIVED ASCII PORTRAIT</text>
+    <text x="52" y="516" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#52637A">~/profile $</text>
+    <text x="140" y="516" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#0F172A">build --learn --ship</text>
+    <rect x="52" y="536" width="357" height="1" fill="#D8E3F0"/>
+    <text x="52" y="557" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#059669">● OPEN TO LEARNING</text>
+    <text x="409" y="557" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#52637A">AIML / SOFTWARE</text>
+    <!-- Right system info -->
+    <rect x="451" y="82" width="701" height="498" rx="18" fill="#FFFFFF" fill-opacity=".86" stroke="#D8E3F0" filter="url(#shadow)"/>
+    <text x="480" y="111" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="2" fill="#087EAD">SYSTEM.INFO</text>
+    <text x="1122" y="111" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#52637A">PROFILE.SYS</text>
+    <line x1="480" y1="124" x2="1122" y2="124" stroke="#D8E3F0"/>
+    <text x="480" y="166" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" fill="#52637A">$ ./profile.sh --user</text>
+    <text x="480" y="207" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="30" font-weight="700" fill="#0F172A">THEJAS M U</text>
+    <text x="480" y="236" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" font-weight="600" fill="#087EAD">AIML STUDENT  ·  DEVELOPER</text>
+    <text x="480" y="260" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" fill="#52637A">Building practical tools with code, data &amp; automation</text>
+    <rect x="480" y="282" width="642" height="1" fill="#D8E3F0"/>
+    <text x="480" y="310" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="1" fill="#087EAD">EDUCATION</text><text x="612" y="310" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" fill="#0F172A">B.E. Artificial Intelligence &amp; ML</text><text x="480" y="336" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="1" fill="#087EAD">UNIVERSITY</text><text x="612" y="336" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" fill="#0F172A">M. S. Ramaiah University of Applied Sciences</text><text x="480" y="362" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="1" fill="#087EAD">GRADUATION</text><text x="612" y="362" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" fill="#0F172A">2028  ·  CGPA 8.95 (reported)</text><text x="480" y="388" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="1" fill="#087EAD">FOCUS</text><text x="612" y="388" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" fill="#0F172A">AI/ML  ·  Python  ·  Automation  ·  Web</text><text x="480" y="414" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="1" fill="#087EAD">STACK</text><text x="612" y="414" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" fill="#0F172A">Python  /  SQL  /  HTML  /  CSS  /  JavaScript</text>
+    <text x="480" y="453" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" letter-spacing="1.5" fill="#52637A">SELECTED BUILDS</text>
+    <rect x="480" y="466" width="202" height="42" rx="9" fill="#F8FBFF" stroke="#D8E3F0"/>
+    <text x="492" y="484" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="600" fill="#0F172A">Tools Toolkit</text>
+    <text x="492" y="498" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9" fill="#52637A">Web utility collection</text>
+    <rect x="693" y="466" width="202" height="42" rx="9" fill="#F8FBFF" stroke="#D8E3F0"/>
+    <text x="705" y="484" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="600" fill="#0F172A">GK Shorts Automation</text>
+    <text x="705" y="498" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9" fill="#52637A">Python + content workflow</text>
+    <rect x="906" y="466" width="216" height="42" rx="9" fill="#F8FBFF" stroke="#D8E3F0"/>
+    <text x="918" y="484" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="600" fill="#0F172A">Student Information System</text>
+    <text x="918" y="498" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9" fill="#52637A">Academic software project</text>
+    <line x1="480" y1="524" x2="1122" y2="524" stroke="#D8E3F0"/>
+    <text x="480" y="548" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#52637A">CONNECT</text>
+    <text x="552" y="548" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#087EAD">github.com/Thejas992005</text>
+    <text x="1122" y="548" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#059669">STATUS: LEARNING</text>
+    <!-- animated accent sweep -->
+    <rect x="28" y="82" width="3" height="498" rx="1.5" fill="url(#accentGrad)">
+      <animate attributeName="opacity" values=".55;1;.55" dur="3.8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
