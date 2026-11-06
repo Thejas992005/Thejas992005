@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi" />
+</p>
 <div align="center">
 
 <picture>
@@ -72,6 +75,3 @@ I'm strengthening my foundations in programming and AI/ML while building practic
 <div align="center">
   <sub>Always learning. Always building. One project at a time.</sub>
 </div>
-<p align="center">
-  <img src="koi/koi.gif" width="256" alt="My koi" />
-</p>
